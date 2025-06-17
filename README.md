@@ -1,4 +1,3 @@
-
 # Clinic Appointment Management System (Changlun Branch)
 
 This is a simple web-based system developed using PHP and MySQL to manage patient appointments with doctors at a clinic. It provides separate dashboards for patients and doctors, allowing patients to book, edit, and delete appointments, and doctors to view and manage their assigned appointments.
@@ -151,14 +150,10 @@ Place all files into your web server’s root directory (e.g., `htdocs` or `www`
 
 Open browser:
 
-```
-http://localhost/
-```
-
-Or if using the experimental redundancy logic:
+ using the experimental redundancy logic:
 
 ```
-http://172.20.10.4:8000/
+http://172.20.10.3:8000/
 ```
 
 ---
@@ -179,4 +174,5 @@ http://172.20.10.4:8000/
 
 ## 👤 Author
 
-Developed by Mr. Aliff Ramadhan (Changlun Branch Project)
+Developed by Team Clinic Project 
+(Changlun Branch Project)
